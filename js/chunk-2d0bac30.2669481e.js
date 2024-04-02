@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bac30"],{"391e":function(n,a,e){"use strict";e.r(a);var t=function(){var n=this,a=n._self._c;return a("div",[n._v(" 首页 ")])},c=[],r={name:"ChatPage",data(){return{description:"首页"}}},u=r,i=e("2877"),s=Object(i["a"])(u,t,c,!1,null,"6574fa0a",null);a["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d0bac30.2669481e.js.map

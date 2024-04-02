@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4a84"],{"3c86":function(n,e,t){"use strict";t.r(e);var a=function(){var n=this,e=n._self._c;return e("div",[n._v(" 科学上网 ")])},c=[],r={name:"VpnPage",data(){return{description:"科学上网"}}},u=r,i=t("2877"),s=Object(i["a"])(u,a,c,!1,null,"15e06138",null);e["default"]=s.exports}}]);
-//# sourceMappingURL=chunk-2d0c4a84.9cb9a56e.js.map
