@@ -8,7 +8,11 @@
 }
 
 /* 隐藏顶部导航栏第一个伪首页 */
-[href="../.."],
+/* [href="../.."],
 .md-tabs__list > li:nth-child(1) {
   display: none;
+} */
+
+[dir=ltr] .md-header__title {
+  margin-left: 0;
 }
